@@ -1,0 +1,11 @@
+{
+  "name": "estruturapadrao",
+  "version": "1.0.0",
+  "description": "Estrutura Padrão usada em futuros projetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jovanio Junior",
+  "license": "ISC"
+}
