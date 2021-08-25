@@ -5,7 +5,7 @@ const db = require("../../../db");
 
 function login(req, res) {
   console.log("Post -> /login ");
-  console.log(req.body);
+  console.log("dados: ", req.body.login);
 
   try {
     if (req.body.login) {

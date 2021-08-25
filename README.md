@@ -1,9 +1,15 @@
 # EstruturaPadrao
 
-Estrutura usando require
+## Estrutura Basica
 
--express
--cors
--bodyparser
--json web token
--knex
+### uso
+
+```
+yarn install
+```
+
+### dev
+
+```
+yarn start
+```
